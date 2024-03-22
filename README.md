@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dash Dish](https://github.com/Charlotte-Greenaway/YourKitchen)
 
-- 🌱 I’m currently learning **NextJS / PHP.**
+- 🌱 I’m currently learning **NextJS.**
 
 - 🤝 I’m looking for help with **ideas for features on my solar system project.**
 
