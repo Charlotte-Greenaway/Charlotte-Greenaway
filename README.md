@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlotte Greenaway</h1>
-<h3 align="center">A passionate Junior Developer from Devon!</h3>
+<h3 align="center">A passionate Software Engineer from Devon!</h3>
 
 - 🔭 I’m currently working on [Dash Dish](https://github.com/Charlotte-Greenaway/DashDish)
 
