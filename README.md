@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NextJS.**
 
-- 🤝 I’m looking for help with **ideas for features on my solar system project.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Charlotte-Greenaway](https://github.com/Charlotte-Greenaway)
 
 - 📫 How to reach me **charlottegreenaway654@gmail.com**
