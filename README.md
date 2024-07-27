@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Charlotte Greenaway</h1>
 <h3 align="center">A passionate Software Engineer from Devon!</h3>
 
-- 🔭 I’m currently working on [Dash Dish](https://github.com/Charlotte-Greenaway/DashDish)
+- 🔭 I’m currently working on [Github Stats](https://github.com/Charlotte-Greenaway/github-stats)
 
-- 🌱 I’m currently learning **NextJS.**
+- 🌱 I’m currently learning **Flask.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Charlotte-Greenaway](https://github.com/Charlotte-Greenaway)
 
-- 📫 How to reach me **charlottegreenaway654@gmail.com**
+- 📫 How to reach me **me@charlotte-greenaway.com**
 
 - 📄 Know about my experiences [www.charlotte-greenaway.com](www.charlotte-greenaway.com)
 
