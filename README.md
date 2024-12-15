@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Github Stats](https://github.com/Charlotte-Greenaway/github-stats)
 
-- 🌱 I’m currently learning **Flask.**
+- 🌱 I’m currently learning **Laravel.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Charlotte-Greenaway](https://github.com/Charlotte-Greenaway)
 
