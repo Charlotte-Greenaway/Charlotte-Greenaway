@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlotte Greenaway</h1>
 <h3 align="center">A passionate Software Engineer from Devon!</h3>
 
-- 🔭 I’m currently working on [Github Stats](https://github.com/Charlotte-Greenaway/github-stats)
+- 🔭 I’m currently working on [Github Stats](https://github.com/Charlotte-Greenaway/github-stats) and [LoanAHorse](https://github.com/Charlotte-Greenaway/loanAHorse)
 
 - 🌱 I’m currently learning **Laravel.**
 
